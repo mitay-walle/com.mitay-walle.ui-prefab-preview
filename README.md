@@ -10,4 +10,6 @@ Script that renders custom previews for UGUI prefabs using
 `PreviewRenderUtility`.
 
 # Installation
-Add the script to any Unity project that uses **UGUI**.
+Add the script `UiPrefabProjectPreviewDrawer.cs` to folder `Project/Assets/Editor`
+# Usage
+- zoom in project window. minimized icons not draw preview (except textures)
